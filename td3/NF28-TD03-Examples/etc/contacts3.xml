@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Example with new a new tag (twitter) and unordered elements -->
+<contacts>
+	<ami>
+		<contact>
+			<mail>dominique.lenne@uc.fr</mail>
+			<nom>Dominique Lenne</nom>
+			<twitter>dlenne</twitter>
+			<icone>C:\Users\Claude
+				Moulin\cm-data\workspace-enseignement\nf28-2014\images\image8.jpg
+			</icone>
+		</contact>
+	</ami>
+	<collegue>
+		<contact>
+			<icone>C:\Users\Claude
+				Moulin\cm-data\workspace-enseignement\nf28-2014\images\DSC03297.JPG
+			</icone>
+			<nom>Claude Moulin</nom>
+			<twitter>cmoulin</twitter>
+			<mail>claude.moulin@uc.fr</mail>
+		</contact>
+	</collegue>
+	<contact>
+
+		<twitter>mhabel</twitter>
+		<mail>marie-helene.abel@utc.fr</mail>
+		<icone>C:\Users\Claude
+			Moulin\cm-data\workspace-enseignement\nf28-2014\images\image3.jpg
+		</icone>
+		<nom>Marie-Helene Abel</nom>
+	</contact>
+	<contact>
+		<mail>marcio.fuckner@utc.fr</mail>
+		<nom>Marcio Fuckner</nom>
+		<twitter>marciofk</twitter>
+		<icone>C:/data/nf28_06/gui/images/image9.jpg</icone>
+	</contact>
+</contacts>
