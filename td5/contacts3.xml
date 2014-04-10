@@ -1,0 +1,31 @@
+<contacts>
+<collegue>
+</collegue>
+<contact>
+<nom>Marie-Helene Abel</nom>
+<mail>mhabelmarie-helene.abel@utc.fr</mail>
+<icone>C:\Users\Claude
+			Moulin\cm-data\workspace-enseignement\nf28-2014\images\image3.jpg</icone>
+</contact>
+<twitter>
+<contact>
+<nom>Claude Moulin</nom>
+<mail>cmoulinclaude.moulin@uc.fr</mail>
+<icone>C:\Users\Claude
+				Moulin\cm-data\workspace-enseignement\nf28-2014\images\DSC03297.JPG</icone>
+</contact>
+<contact>
+<nom>Marcio Fuckner</nom>
+<mail>marcio.fuckner@utc.fr</mail>
+<icone>marciofkC:/data/nf28_06/gui/images/image9.jpg</icone>
+</contact>
+<ami>
+<contact>
+<nom>Dominique Lenne</nom>
+<mail>dominique.lenne@uc.fr</mail>
+<icone>dlenneC:\Users\Claude
+				Moulin\cm-data\workspace-enseignement\nf28-2014\images\image8.jpg</icone>
+</contact>
+</ami>
+</twitter>
+</contacts>

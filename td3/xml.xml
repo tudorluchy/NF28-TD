@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Contacts example -->
+<contacts>
+	<amis />
+	<collegues>
+		<contact software="WhatzApp" version="1.1">
+			<nom>Claude Moulin</nom>
+			<mail>claude.moulin@utc.fr</mail>
+			<icone>C:/data/nf28_06/gui/images/image3.jpg</icone>
+		</contact>
+		<contact>
+			<nom>Dominique Lenne</nom>
+			<mail>dominique.lenne@utc.fr</mail>
+			<icone>C:/data/nf28_06/gui/images/image6.jpg</icone>
+		</contact>
+	</collegues>
+	<famille>
+		<contact>
+			<nom>Marcio Fuckner</nom>
+			<mail>marcio.fuckner@utc.fr</mail>
+			<icone>C:/data/nf28_06/gui/images/image9.jpg</icone>
+		</contact>
+	</famille>
+</contacts>

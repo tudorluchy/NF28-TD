@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Example with ungrouped contacts -->
+<contacts>
+	<ami>
+		<contact>
+			<nom>Dominique Lenne</nom>
+			<mail>dominique.lenne@uc.fr</mail>
+			<icone>C:\Users\Claude
+				Moulin\cm-data\workspace-enseignement\nf28-2014\images\image8.jpg
+			</icone>
+		</contact>
+	</ami>
+	<collegue>
+		<contact>
+			<nom>Claude Moulin</nom>
+			<mail>claude.moulin@uc.fr</mail>
+			<icone>C:\Users\Claude
+				Moulin\cm-data\workspace-enseignement\nf28-2014\images\DSC03297.JPG
+			</icone>
+		</contact>
+	</collegue>
+	<contact>
+		<nom>Marie-Helene Abel</nom>
+		<mail>marie-helene.abel@utc.fr</mail>
+		<icone>C:\Users\Claude
+			Moulin\cm-data\workspace-enseignement\nf28-2014\images\image3.jpg
+		</icone>
+	</contact>
+	<contact>
+		<nom>Marcio Fuckner</nom>
+		<mail>marcio.fuckner@utc.fr</mail>
+		<icone>C:/data/nf28_06/gui/images/image9.jpg</icone>
+	</contact>
+</contacts>
